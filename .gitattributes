@@ -1,0 +1,4 @@
+FONTS.zip.001 filter=lfs diff=lfs merge=lfs -text
+FONTS.zip.002 filter=lfs diff=lfs merge=lfs -text
+FONTS.zip.003 filter=lfs diff=lfs merge=lfs -text
+nvchad.zip filter=lfs diff=lfs merge=lfs -text
